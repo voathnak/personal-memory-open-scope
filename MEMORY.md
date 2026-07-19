@@ -1,3 +1,3 @@
 # open-memory-scope index
 
-(no memories yet — add a line per memory file as they're created)
+- [Dumb-Hub Sync](pattern_dumb_hub_sync.md) — local-first multi-machine sync over a dumb shared filesystem; lease-fenced symlink lock, watch+tick, newest-wins with conflict copies
