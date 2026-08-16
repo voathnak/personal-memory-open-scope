@@ -12,3 +12,4 @@ is free to follow what's useful here and ignore the rest.
 
 - Written only by my machines; published read-only to everyone else.
 - Contains zero personal, credential, or infrastructure detail by policy.
+
