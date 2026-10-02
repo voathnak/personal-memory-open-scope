@@ -17,8 +17,11 @@ filesystem** (NFS export, SMB share, even a USB disk) — no Dropbox-style smart
 per-file journal service.
 
 This is my (Voathnak's) pattern, extracted from a working system (2026-07-19) built for AI-agent
-memory vaults synced across a Mac Studio, a Raspberry Pi, and a Synology NAS. Follow it freely;
+memory vaults synced across a desktop, a single-board computer, and a NAS. Follow it freely;
 nothing here is a mandate.
+
+*Status (2026-10-02):* I replaced that system with plain git sync on 2026-08-16 once every
+machine could reach a git host. The pattern still holds when all you have is a shared filesystem.
 
 ## The shape
 
